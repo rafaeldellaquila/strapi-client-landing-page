@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi Landing Page
 
-A quick description of your strapi application
+A quickly landingpage for learn Strapi and make a properly website soon.
