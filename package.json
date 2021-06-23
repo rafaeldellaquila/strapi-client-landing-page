@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "basic-landing-page",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A quickly landingpage for learn Strapi and make a properly website soon.",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -25,7 +25,7 @@
     "pg": "8.5.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Rafael DellAquila"
   },
   "strapi": {
     "uuid": "040ad5dc-ce92-46c6-bd37-8037e2a5c301"
