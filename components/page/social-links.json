@@ -8,13 +8,7 @@
   "attributes": {
     "title": {
       "type": "enumeration",
-      "enum": [
-        "Github",
-        "Twitter",
-        "Dribble",
-        "Linkedin",
-        "Facebook"
-      ],
+      "enum": ["Github", "Twitter", "Dribbble", "Linkedin", "Facebook"],
       "default": "Twitter",
       "required": true
     },
