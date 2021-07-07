@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env("https://landing-page-test-api.herokuapp.com/"),
+  url: env("LANDING_PAGE_TEST_API"),
 });
